@@ -233,3 +233,38 @@ Aqueles que são escolhidos por Anagignöskomena recebem poder e prosperidade, m
 Se for contrariado condena os desertores a arder em chamas eternamente em seu reino de tormento.
 
 ---
+
+##### Consequências de Abuso de Dádiva
+| Rolagem |      Consequência                                                                                          |
+|:-----:  |:------------------------                                                                                   |
+|  1      | Pelo próximo minuto você fica cego.                                                                        |
+|  2      | Você lança *Relâmpago* centrada em você, e você toma 8d6 de dano elétrico.                                 |
+|  3      | Pelo próximo minuto toda magia com tempo de ação de 1 ação, passam a ser lançadas com tempo de 2 turnos.   |
+|  4      | Jogue um 2d10, sua idade muda para o resultado. Se for ímpar, você rejuvenesce. Se for par, você envelhece.|
+|  5      | Sua pele adquire um tom azul vibrante. A magia *Remover Maldição* cessa esse efeito.                       |
+|  6      | Você lança *Bola de Fogo* centrada em você, e você toma 8d6 de dano de fogo.                               |
+|  7      | Tudo que tocar que não esteja sendo carregado, explode em chamas.                                          |
+|  8      | Pelo próximo minuto, você deve gritar quando falar.                                                        |
+|  9      | Você não recupera slots de magia por descansos durante 4d4 dias.                                           |
+|  10     | Você fica intoxicado por álcool por 5d6 dias.                                                              |
+
+### Característica de Presságio
+No 10º nível. Num teste de resistência de Sabedoria (CD 18) você pode usar sua ação bônus para tentar conjurar uma magia extra no seu turno, essa magia deve ser de 6º nível ou inferior. Numa falha ao usar essa característica você desperdiça sua açâo bônus naquele turno sem fazer nada.
+
+### Arcano (6º Nível)
+No 11º nível, de acordo com a divindade que te escolheu você recebe um Arcano, um poder singular que apenas tais seres poderiam proferir. De acordo com seu alinhamento e são magias únicas que não contam nas suas magias conhecidas.
+
+##### Leal *(e outro qualquer)* recebe:
+#### Aliado Extradimensional*
+*Conjuração nível 6*
+
+**Tempo de Conjuração:** :: 10 minutos \
+**Alcance:**        :: 18 metros \
+**Componentes:**   :: V, S, M \
+**Duração:**     :: 1d10 dias
+
+Você suplica a uma entidade transcendental por ajuda. Aulla enviará Mirrael, um celestial leal a ela para ajudar você, de nível de desafio igual metade seu nível de Tirano. Fazendo a criatura aparecer em um espaço desocupado dentro do alcance. Se você conhecer o nome de uma criatura especifica, você pode falar o nome quando conjurar essa magia para requisitar essa criatura, do contrário, você pode receber uma criatura diferente de qualquer forma (à escolha do Mestre).
+
+Quando a criatura aparecer, ela não está sob nenhuma compulsão para se comportar de um modo em particular. Você pode pedir a criatura que realize um serviço, mas ela não é obrigada a fazê-lo se isso for contra os princípios de sua deusa. A tarefa solicitada pode variar de simples (carregue-nos voando para o outro lado do abismo ou nos ajude a lutar essa batalha) a complexa (espione nossos inimigos ou nos proteja durante nossa incursão na masmorra). Você deve ser capaz de se comunicar com a criatura para barganhar os serviços dela.
+
+Após a criatura completar a tarefa, a criatura retornará para seu plano natal depois de relatar sua partida a você, se apropriado para a tarefa e se possível.
