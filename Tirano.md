@@ -258,13 +258,167 @@ No 11º nível, de acordo com a divindade que te escolheu você recebe um Arcano
 #### Aliado Extradimensional*
 *Conjuração nível 6*
 
-**Tempo de Conjuração:** :: 10 minutos \
-**Alcance:**        :: 18 metros \
-**Componentes:**   :: V, S, M \
-**Duração:**     :: 1d10 dias
+**Tempo de Conjuração:** 10 minutos \
+**Alcance:**        18 metros \
+**Componentes:**    V, S, M \
+**Duração:**     1d10 dias
 
 Você suplica a uma entidade transcendental por ajuda. Aulla enviará Mirrael, um celestial leal a ela para ajudar você, de nível de desafio igual metade seu nível de Tirano. Fazendo a criatura aparecer em um espaço desocupado dentro do alcance. Se você conhecer o nome de uma criatura especifica, você pode falar o nome quando conjurar essa magia para requisitar essa criatura, do contrário, você pode receber uma criatura diferente de qualquer forma (à escolha do Mestre).
 
 Quando a criatura aparecer, ela não está sob nenhuma compulsão para se comportar de um modo em particular. Você pode pedir a criatura que realize um serviço, mas ela não é obrigada a fazê-lo se isso for contra os princípios de sua deusa. A tarefa solicitada pode variar de simples (carregue-nos voando para o outro lado do abismo ou nos ajude a lutar essa batalha) a complexa (espione nossos inimigos ou nos proteja durante nossa incursão na masmorra). Você deve ser capaz de se comunicar com a criatura para barganhar os serviços dela.
 
 Após a criatura completar a tarefa, a criatura retornará para seu plano natal depois de relatar sua partida a você, se apropriado para a tarefa e se possível.
+
+##### Neutro *(e outro qualquer)* recebe:
+#### Aversão Purificadora*
+*Evocação nível 6*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:**        18 metros / 6 metros \
+**Componentes:**   V, S, M \
+**Duração:**     1 Minuto \
+
+Uma aura purificadora envolve você num diâmetro de 6 metros, ou uma criatura disposta até 18 metros de você. Nyptane protege aquela criatura de seres hostis á ela, ela tem um leve brilho sobre seu corpo, ao receber um ataque tanto mágico como não-mágico o alvo dessa magia tem os seguintes benefícios:
+
+- **Alvo de ataques físicos:** quaisquer criatura que usar um ataque físico ao alvo deve ser bem sucedido num teste de Resistência de Sabedoria (CD 15), em falha o alvo automaticamente erra seu ataque e recebe 6d6 de dano psíquico.
+- **Alvo de ataques mágicos:** quaisquer ataque mágico que cause dano a criatura alvo, o alvo deve ser bem sucedido num teste de Resistência de Carisma (CD 15), em falha o alvo recebe a condição *Encantado* pelo próximo minuto. Se a magia exigir um teste de Resistência da criatura sob efeito de Aversão Purificadora ela o realiza com vantagem.
+
+Você tem 1d4 + metade do seu nível (arredondado para baixo) de usos dessa magia por dia.
+
+##### Caótico *(e outro qualquer)* recebe:
+#### Protervo*
+*Transmutação nível 6*
+
+**Tempo de Conjuração:** Reação, ao receber dano \
+**Alcance:**        Pessoal \
+**Componentes:**   1d10 Pontos de Vida \
+**Duração:**     1 hora
+
+A agressivida de Anagignöskomena o compele, você vê a necessidade de arrancar a vida daqueles que te causaram mal. O alvo dessa magia no momento em que sofre dano á vida pode usar sua reação para entrar em *Frenesi* e atacar ferosmente aquele que lhe causou dor. No momento em que ativar essa magia o alvo pode realizar um ataque contra o alvo que o atacou:
+
+- Todos os ataques feitos pelo alvo de Protervo causam 2d10 de dano necrótico adicional.
+- Acertos críticos criam pulsos tectônicos num raio de 1,5 metros do alvo dos ataques, todos adjacentes exceto você devem fazer um teste de Resistência de Destreza ou irão cair.
+- Ao final de cada turno que você declarou ação de Ataque você recupera 10 pontos de vida.
+
+**Brutalidade:** alvos de seus ataques devem ser bem sucedidos em um teste de Resistência de Constituição, em falha o alvo tem ossos quebrados recebendo 10d10 + 40 de dano de Força. E a partir daí, ele tem desvantagens em todas as rolagens de d20.
+
+### Prunus Serrulata 2
+No 12º nível, você cria um pulso de aura que o protege. Quando alvo de ataques que causam dano, você tem a chance de refletir parte do dano recebido. Você pode rolar um d20 puro para as seguintes condições:
+- 12 ou menos: Falha, você toma o dano normal
+- 12 ou mais: Você recebe dano e reflete 1d8 + metade do nível de tirano (arredondado para baixo)
+- 18 ou 19: Você recebe dano e o dano refletido aumenta em 10
+- 20: Você recebe dano e pode usar sua reação, para atacar de volta o alvo até 1,5 metros de você
+
+Você não pode usar esta característica novamente até que você faça um descanso longo.
+
+### Arcano (7º Nível)
+No 14º nível, sua divindade te garante mais um poder. De acordo com seu alinhamento e são magias únicas que não contam nas suas magias conhecidas.
+
+##### Leal *(e outro qualquer)* recebe:
+#### Lançador Cintilante*
+*Conjuração nível 7*
+
+**Tempo de Conjuração:** 1 ação bônus \
+**Alcance:**        9 metros \
+**Componentes:**   V, S, M \
+**Duração:**     Instantânea
+
+Você aponta o dedo e faz um ataque de magia á distância, e três feixes de luz brilhante saem de seus dedos na direção alvo até 9 metros, você faz um rolagem de acerto para um deles. Cada um causa 2d10 de dano.
+
+##### Neutro *(e outro qualquer)* recebe:
+#### Ligação Cromática*
+*Evocação nível 7*
+
+**Tempo de Conjuração:** 1 ação \
+**Alcance:**        36 metros \
+**Componentes:**   V, S \
+**Duração:**     Concentração, até 10 minutos
+
+Oito raios de luz multicoloridos lampejam da sua mão. Cada raio é uma cor diferente e tem poderes e propósitos diferentes. Cada criatura em um cone de 36 metros deve realizar um teste de Resistência de Destreza. Para cada alvo, role um d8 para determinar qual cor de raio afetou ele.
+
+**1. Vermelho.** O alvo sofre 10d6 de dano de fogo se falhar na resistência ou metade desse dano se obtiver sucesso. \
+**2. Laranja.** O alvo deve realizar outra resistência de Destreza ou irá cair. \
+**3. Amarelo.** Se o alvo já tiver sofrido dano antes de falhar na resistência ele fica enraizado. \
+**4. Verde.** Se o alvo tiver menos de 16 de CA ela sofre 6d6 de dano de ácido e se sua CA for maior é diminuída em 2. \
+**5. Azul.** O alvo sofre 2d6 de dano de frio e seu deslocamento é reduzido pela metade. \ 
+**6. Roxo.** Dois tentáculos prendem os pés do alvo e liberam um gás venenoso que causa 1d12 de dano. \
+**7. Branco.** O alvo sofre 10d8 de dano radiante se falhar na resistência. \
+**8. Preto.** O alvo sofre 10d8 de dano necrótico se falhar na resistência.
+
+##### Caótico *(e outro qualquer)* recebe:
+#### Chama Sombria*
+*Conjuração nível 7*
+
+**Tempo de Conjuração:** 1 ação \
+**Alcance:**        18 metros \
+**Componentes:**   V, S \ 
+**Duração:**     10 turnos do alvo
+
+Chamas negras envolvem o alvo, pela duração ele deve ser bem sucedido num teste de Resistência de Sabedoria ou toma 1d8 de dano necrótico no final de cada um de seus turnos, que aumentam em 1d8 a cada falha na resistência até um máximo de 10d8.
+
+No final de cada um de seus turnos o alvo pode repetir o teste de Resistência, em sucesso o dano recomeça em 1d8.
+
+### Característica de Presságio
+No 16º nível. Num teste de resistência de Sabedoria (CD 20) você pode usar sua ação bônus para tentar conjurar uma magia extra no seu turno, essa magia deve ser de 7º nível ou inferior. Numa falha ao usar essa característica você desperdiça sua açâo bônus naquele turno sem fazer nada.
+
+### Ataque Extra (2)
+A partir do 17º nível, você pode atacar três vezes, em vez de duas vezes.
+
+### Arcano (8º Nível)
+Também no 17º nível, sua divindade te garante mais um poder. De acordo com seu alinhamento e são magias únicas que não contam nas suas magias conhecidas.
+
+##### Leal *(e outro qualquer)* recebe:
+#### Esplendor Divino*
+*Evocação nível 8*
+
+**Tempo de Conjuração:** 1 ação \
+**Alcance:**        45 metros / 18 metros \
+**Componentes:**   V, S, M \
+**Duração:**     Instantânea
+
+Luz solar brilhante corta os céus num raio de 18 metros, centrada num ponto, à sua escolha, dentro do alcance. Cada criatura nessa luz, deve realizar um teste de resistência de Constituição. Com uma falha na resistência, uma criatura sofrerá 12d10 de dano radiante e ficará cega por 1 minuto. Se obtiver sucesso na resistência, ela sofrerá metade desse dano e não ficará cega por essa magia. Mortos-vivos e corruptores tem desvantagem nos seus testes de resistência e tomam dano dobrado.
+
+Uma criatura cega por essa magia faz outro teste de resistência de Constituição no final de cada um dos turnos dela. Se obtiver sucesso, ela não estará mais cega.
+
+Essa magia dissipa qualquer escuridão na área dela que tenha sido criada por uma magia.
+
+##### Neutro *(e outro qualquer)* recebe:
+#### Labirinto da Perdição*
+*Conjuração nível 8*
+
+**Tempo de Conjuração:** 1 ação \
+**Alcance:**        18 metros \
+**Componentes:**  V, S \
+**Duração:**     1 minuto
+
+Você bane uma criatura que você possa ver, dentro do alcance, para um semiplano labiríntico. O alvo permanece lá pela duração ou até escapar do labirinto.
+
+O alvo pode usar sua ação para tentar escapar. Quando o fizer, ele realiza um teste de Inteligência (CD 20). Se for bem sucedido, ele escapa e a magia termina (um minotauro ou um demônio goristro, obtém sucesso automaticamente).
+
+Se o alvo falhar na resistência, a magia dura 1 minuto a mais.
+
+##### Caótico *(e outro qualquer)* recebe:
+#### Heleventum Primmum*
+*Evocação nível 8*
+
+**Tempo de Conjuração:** 1 ação \
+**Alcance:**        6 metros \
+**Componentes:**   V, S \
+**Duração:**     Instântanea
+
+Energia invisível eleva uma criatura a 9 metros de altura e o atira violentamente de volta ao chão. Faça um ataque a distância com magia para acertar o alvo e o marcá-lo, num teste de resistência de Sabedoria (CD 18) o alvo é puxado para cima cancelando todas as ações que estiver fazendo ou magias que estiver lançando e atirado de volta recebendo 10d6 + 10 de dano de Força. Após isso a criatura está caída e assim que levantar seu deslocamento está reduzido pela metade.
+
+### Prunus Serrulata 3
+No 19º nível, você cria um pulso de aura que o protege. Quando alvo de ataques que causam dano, você tem a chance de refletir parte do dano recebido. Você pode rolar um d20 puro para as seguintes condições:
+
+- 12 ou menos: Falha, você toma o dano normal
+- 12 ou mais: Você recebe dano e reflete 1d10 + metade do nível de tirano (arredondado para baixo)
+- 18 ou 19: Você recebe dano e o dano refletido aumenta em 15
+- 20: Você recebe dano e pode usar sua reação, para atacar de volta o alvo até 3 metros de você
+
+Você não pode usar esta característica novamente até que você faça um descanso longo.
+
+### Portador da Dádiva Suprema
+No seu 20º nível, com a bênção da divindade que concedeu a você sua dádiva, você se torna um canal direto de sua vontade divina. Você pode convocar um avatar de sua divindade (ND 10) para lutar ao seu lado em batalha. O avatar permanece ao seu lado por um tempo limitado e possui uma força e habilidades comparáveis às de um deus menor.
+
+No entanto, tenha cuidado ao usar essa habilidade, pois chamar a atenção dos deuses pode atrair tanto a gratidão quanto a inveja de outras divindades, e você pode se encontrar envolvido em conflitos cósmicos de proporções épicas.
