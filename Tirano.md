@@ -6,11 +6,7 @@ layout: default
 
 <details>
  <summary>Índice</summary>
-1. Item one
-   1. Sub item one
-   1. Sub item two
-1. Item two
-1. Item three
+ [Mix HTML + Markdown Markup section](#mix-html--markdown-markup)
 </details>
 
 # O Tirano
