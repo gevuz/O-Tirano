@@ -4,6 +4,11 @@ permalink: /
 layout: default
 ---
 
+<details>
+ <summary>Summary Goes Here</summary>
+ ...this is hidden, collapsable content...
+</details>
+
 # O Tirano
 Já pensou na possibilidade de você ser o agraciado por algum ser divino ou profano que lhe garante poderes além de sua compreensão? "A tirania não é ato de força ou violência de um homem ou de um bando de homens, mas nasce do desejo de servir e é o povo que gera seu próprio infortúnio, cúmplice dos tiranos” (Marilena Chauí).
 
