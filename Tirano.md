@@ -55,28 +55,28 @@ Você conhece dois truques à sua escolha de qualquer lista. Você aprende truqu
 
 # Tabela: O Tirano
 
-| Nível | Bônus de Proficiência|Características  | Truques Conhecidos   | Magias Conhecidas |1º |2º |3º |4º |5º |6º |7º |8º |9º |
-|:-----:|:------------:|:-------------   |:--------:|:------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  1º  | +2 |      Escolhido Extradimensional, Presságio |    2     |   4    | 2  | —  | —  | —  | —  | —  | —  | —  | —  |
-|  2º  | +2 |      Radicais Livres      |    2     |   6    | 3  | —  | —  | —  | —  | —  | —  | —  | —  |
-|  3º  | +2 |      Poder Latente |    2     |   6    | 3  | —  | —  | —  | —  | —  | —  | —  | —  |
-|  4º  | +2 |      Incremento no Valor de Habilidade     |    3     |   7    | 4  | 1  | —  | —  | —  | —  | —  | —  | —  |
-|  5º  | +3 |      Ataque Extra (1)    |    3     |   7    | 4  | 1  | —  | —  | —  | —  | —  | —  | —  |
-|  6º  | +3 |      Característica de Presságio    |    3     |   7    | 4  | 2  | —  | —  | —  | —  | —  | —  | —  |
-|  7º  | +3 |      Prunus Serrulata 1 |    4     |   8    | 4  | 2  | 1  | —  | —  | —  | —  | —  | —  |
-|  8º  | +3 |      Canalizar Poder (1/descanso), Incremento no Valor de Habilidade |    4     |   8    | 4  | 3  | 1  | —  | —  | —  | —  | —  | —  |
-|  9º  | +4 |      —  |    4     |   8    | 4  | 3  | 2  | 1  | —  | —  | —  | —  | —  |
-| 10º  | +4 |      Característica de Presságio  |    5     |   9    | 4  | 3  | 3  | 1  | —  | —  | —  | —  | —  |
-| 11º  | +4 |      Arcano (6º)   |    5     |   9    | 4  | 3  | 3  | 3  | 1  | —  | —  | —  | —  |
-| 12º  | +4 |      Prunus Serrulada 2, Incremento no Valor de Habilidade         |    5     |   9    | 4  | 3  | 3  | 3  | 2  | —  | —  | —  | —  |
-| 13º  | +5 |      —       |    6     |   10   | 4  | 3  | 3  | 3  | 2  | —  | —  | —  | —  |
-| 14º  | +5 |      Arcano Místico (7º)       |    6     |   10   | 4  | 3  | 3  | 3  | 3  | 1  | —  | —  | —  |
-| 15º  | +5 |      Característica de Presságio |    7     |   11   | 4  | 3  | 3  | 3  | 3  | 1  | —  | —  | —  |
+| Nível | Bônus de Proficiência|Características  | Truques Conhecidos   | Magias Conhecidas                 |1º  |2º  |3º  |4º  |5º  |6º  |7º  |8º  |9º  |
+|:-----:|:------------:|:-------------   |:--------:                                    |:--------:         |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|  1º  | +2 |      Escolhido Extradimensional, Presságio                                |    2     |   4    | 2  | —  | —  | —  | —  | —  | —  | —  | —  |
+|  2º  | +2 |      Radicais Livres                                                      |    2     |   6    | 3  | —  | —  | —  | —  | —  | —  | —  | —  |
+|  3º  | +2 |      Poder Latente                                                        |    2     |   6    | 3  | —  | —  | —  | —  | —  | —  | —  | —  |
+|  4º  | +2 |      Incremento no Valor de Habilidade                                    |    3     |   7    | 4  | 1  | —  | —  | —  | —  | —  | —  | —  |
+|  5º  | +3 |      Ataque Extra (1)                                                     |    3     |   7    | 4  | 1  | —  | —  | —  | —  | —  | —  | —  |
+|  6º  | +3 |      Característica de Presságio                                          |    3     |   7    | 4  | 2  | —  | —  | —  | —  | —  | —  | —  |
+|  7º  | +3 |      Prunus Serrulata 1                                                   |    4     |   8    | 4  | 2  | 1  | —  | —  | —  | —  | —  | —  |
+|  8º  | +3 |      Canalizar Poder (1/descanso), Incremento no Valor de Habilidade      |    4     |   8    | 4  | 3  | 1  | —  | —  | —  | —  | —  | —  |
+|  9º  | +4 |      —                                                                    |    4     |   8    | 4  | 3  | 2  | 1  | —  | —  | —  | —  | —  |
+| 10º  | +4 |      Característica de Presságio                                          |    5     |   9    | 4  | 3  | 3  | 1  | —  | —  | —  | —  | —  |
+| 11º  | +4 |      Arcano (6º)                                                          |    5     |   9    | 4  | 3  | 3  | 3  | 1  | —  | —  | —  | —  |
+| 12º  | +4 |      Prunus Serrulada 2, Incremento no Valor de Habilidade                |    5     |   9    | 4  | 3  | 3  | 3  | 2  | —  | —  | —  | —  |
+| 13º  | +5 |      —                                                                    |    6     |   10   | 4  | 3  | 3  | 3  | 2  | —  | —  | —  | —  |
+| 14º  | +5 |      Arcano Místico (7º)                                                  |    6     |   10   | 4  | 3  | 3  | 3  | 3  | 1  | —  | —  | —  |
+| 15º  | +5 |      Característica de Presságio                                          |    7     |   11   | 4  | 3  | 3  | 3  | 3  | 1  | —  | —  | —  |
 | 16º  | +5 |      Canalizar poder (2/descanso), Incremento no Valor de Habilidade      |    7     |   11   | 4  | 3  | 3  | 3  | 3  | 1  | 1  | —  | —  |
-| 17º  | +6 |      Ataque Extra (2), Arcano (8º) |    7     |   11   | 4  | 3  | 3  | 3  | 3  | 2  | 1  | —  | —  |
-| 18º  | +6 |      —  |    7     |   12   | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  | —  |
-| 19º  | +6 |      Prunus Serrulata 3, Incremento no Valor de Habilidade |    7     |   13   | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  | 1  |
-| 20º  | +6 |      Portador da Dávida Suprema   |    7     |   14   | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  | 1  |
+| 17º  | +6 |      Ataque Extra (2), Arcano (8º)                                        |    7     |   11   | 4  | 3  | 3  | 3  | 3  | 2  | 1  | —  | —  |
+| 18º  | +6 |      —                                                                    |    7     |   12   | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  | —  |
+| 19º  | +6 |      Prunus Serrulata 3, Incremento no Valor de Habilidade                |    7     |   13   | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  | 1  |
+| 20º  | +6 |      Portador da Dávida Suprema                                           |    7     |   14   | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  | 1  |
 
 #### Espaços de Magia
 A tabela do Tirano mostra quantos espaços de magia você tem para lançar suas magias do 1º ao 9º nível. A tabela também mostra qual é o nível desses espaços; Para lançar uma de suas de 1º nível ou superior, você deve gastar um espaço de magia. Você recupera todos os espaços de magia gastos quando termina um descanso curto ou longo.
@@ -89,3 +89,11 @@ Se você não começou usando as *manoplas*{color:darkblue}, o efeito funciona p
 No 1º nível, você conhece duas magias de 1º nível, à sua escolha, da lista de magias de qualquer classe.
 
 A coluna Magias Conhecidas da tabela Tirano mostra quando você aprende mais magias de qualquer classe de sua escolha de 1º nível e superior. Uma magia que você escolher deve ser de um nível não superior ao que é mostrado na coluna Nível do Espaço da tabela para o seu nível. Ao atingir o 7º nível, por exemplo, você aprende uma nova magia, que pode ser de 1º, 2º ou 3º nível. Além disso, quando você ganha um nível nesta classe, você pode escolher uma das magias que você conhece e substituí-la por outra magia da lista de magias de qualquer outra classe, que também deve ser de um nível para o qual você tenha espaços de magia.
+
+#### Foco de Conjuração
+Sua benção extradimensional te confere um foco arcano inato. Você tem dificuldade em manter a concentração em um feitiço se receber ataques com vantagem, você deve fazer um teste de resistência de Sabedoria (CD 15) para manter a concentração e não perder o feitiço (que necessitam de concentração).
+
+#### Vislumbre do Presságio
+Também no 1º nível, você têm relances vindos de seu deus extradimensional. Num teste de resistência de Sabedoria (CD 15) você pode usar sua ação bônus para tentar conjurar uma magia extra no seu turno, essa magia deve ser de 1º nível ou inferior. Numa falha ao usar essa característica você desperdiça sua açâo bônus naquele turno sem fazer nada.
+
+Você recebe aprimoramentos nesse recurso novamente nos 6º, 10º e 15º níveis.
