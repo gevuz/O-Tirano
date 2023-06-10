@@ -173,6 +173,7 @@ Utilizando essa característica você clama intervenção divina para o plano ma
 - Todos que forem alvo de habilidades que causam dano enquanto estiverem dentro da área cria um lampejo que ricocheteia no atacante causando 3d10 de dano radiante
 - Você e criaturas nessa área não podem ser amedrontadas
 
+---
 ### Aulla, A Verdade Incontestável
 Segundo a mitologia que envolve Aulla, ela é uma divindade que sempre defendeu a verdade e a justiça em todos os seus domínios. Seus seguidores acreditam que ela é uma deusa que nunca mentiria ou enganaria seus fiéis. É vista como uma protetora das pessoas honestas e sinceras e uma adversária dos enganadores e mentirosos.
 
@@ -181,3 +182,4 @@ Além disso, Aulla é considerada uma deusa benevolente. Ela é conhecida por se
 No entanto, apesar de sua bondade e lealdade, pouco se sabe sobre o verdadeiro poder de Aulla. Ela é uma figura enigmática que muitos temem provocar, pois acreditam que ela poderia desencadear uma força incontrolável. Algumas lendas contam sobre momentos em que Aulla revelou um vislumbre de seu verdadeiro poder, mas ninguém sabe ao certo o que ela é capaz de fazer.
 
 Em suma, Aulla é uma deus que representa a verdade incontestável e a justiça.
+---
