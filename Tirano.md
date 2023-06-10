@@ -17,7 +17,16 @@ layout: default
 <a href="#opções-de-alinhamento">8 - Opções de alinhamento</a> <br>
 <a href="#escolhido-extradimensional">9 - Escolhido Extradimensional</a> <br>
 <a href="#truques">10 - Truques</a> <br>
-<a href="#truques">11 - Truques</a> <br>
+<a href="#tabela-o-tirano">11 - Tabela: O Tirano</a> <br>
+<a href="#espaços-de-magia">12 - Espaços de Magia</a> <br>
+<a href="#magias-conhecidas-de-1º-nível-e-superior">13 - Magias Conhecidas de 1º Nível e Superior</a> <br>
+<a href="#foco-de-conjuração">14 - Foco de Conjuração</a> <br>
+<a href="#vislumbre-do-presságio">15 - Vislumbre do Presságio</a> <br>
+<a href="#radicais-livres">15 - Radicais Livres</a> <br>
+<a href="#poder-latente">16 - Poder Latente</a> <br>
+<a href="#incremento-no-valor-de-habilidade">17 - Incremento no Valor de Habilidade</a> <br>
+<a href="#ataque-extra-1">18 - Ataque Extra (1)</a> <br>
+<a href="#característica-de-presságio">19 - Característica de Presságio</a> <br>
 
 </details>
 
