@@ -156,9 +156,32 @@ No 7º nível, você cria um pulso de aura que o protege. Quando alvo de ataques
 - 20: Você recebe dano e pode usar sua reação, para atacar de volta o alvo até 1,5 metros de você
 
 Você não pode usar esta característica novamente até que você faça um descanso longo.
-:
-![alt-text](https://i.imgur.com/DLcT8Wz.jpg) {width:300px,border:"0px solid",border-radius:0px}
-*Artista: cobaltplasma*
 
 ### Canalizar Poder
 No 8º nível, você ganha a habilidade de canalizar energia divina ou profana, usando essa energia para aumentar os efeitos mágicos. Você começa com este efeito: Exoneração, Julgamento ou Carnificina. Esse efeito vem de acordo com seu Alinhamento.
+
+\column
+
+### Canalizar Poder: Exoneração
+
+{{descriptive
+##### Para Alinhamento: Leal *(e outro qualquer)*
+Serão abençoados por Aulla, A Verdade Incontestável.
+}}
+
+Utilizando essa característica você clama intervenção divina para o plano material, que desecandeia efeitos por onde você passar. No momento em questão o campo de batalha é envolvido numa redoma que bloqueia nocivos á você.
+
+**Círculo Poderoso de Aulla.** A deusa da Verdade que lhe escolheu cria um enorme círculo de energia de 6 metros em volta de você ou um ponto centrado a sua escolha. Dentro dessa área:
+- Criaturas puramente malignas que entrarem ou iniciarem seus turnos nessa área, devem ser bem sucedidas num teste de resistência de Sabedoria contra o seu CD de magias ou receberão 3d10 de dano radiante e serão lançadas para fora
+- Você e criaturas a sua escolha dentro da área tem vantagens em rolagens de Ataque, Testes de Resistência e Checagens de Habilidade. Além disso, recebem 20 de Pontos de Vida Temporários
+- Todos que forem alvo de habilidades que causam dano enquanto estiverem dentro da área cria um lampejo que ricocheteia no atacante causando 3d10 de dano radiante
+- Você e criaturas nessa área não podem ser amedrontadas
+
+### Aulla, A Verdade Incontestável
+Segundo a mitologia que envolve Aulla, ela é uma divindade que sempre defendeu a verdade e a justiça em todos os seus domínios. Seus seguidores acreditam que ela é uma deusa que nunca mentiria ou enganaria seus fiéis. É vista como uma protetora das pessoas honestas e sinceras e uma adversária dos enganadores e mentirosos.
+
+Além disso, Aulla é considerada uma deusa benevolente. Ela é conhecida por ser compassiva e generosa com seus seguidores, especialmente aqueles que buscam a verdade em suas vidas. Acredita-se que ela possa conceder bênçãos e proteção àqueles que são fiéis a ela e seguem seus ensinamentos.
+
+No entanto, apesar de sua bondade e lealdade, pouco se sabe sobre o verdadeiro poder de Aulla. Ela é uma figura enigmática que muitos temem provocar, pois acreditam que ela poderia desencadear uma força incontrolável. Algumas lendas contam sobre momentos em que Aulla revelou um vislumbre de seu verdadeiro poder, mas ninguém sabe ao certo o que ela é capaz de fazer.
+
+Em suma, Aulla é uma deus que representa a verdade incontestável e a justiça.
