@@ -12,6 +12,8 @@ layout: default
 3. [Características de Classe](#características-de-classe)
 4. [Pontos de Vida](#pontos-de-vida)
  
+<a href="#criando-um-tirano">5. Criando um Tirano</a>
+ 
 </details>
 
 # O Tirano
