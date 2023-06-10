@@ -3,21 +3,6 @@ title: "O Tirano"
 permalink: /
 layout: default
 ---
-<details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
 
 # O Tirano
 Já pensou na possibilidade de você ser o agraciado por algum ser divino ou profano que lhe garante poderes além de sua compreensão? "A tirania não é ato de força ou violência de um homem ou de um bando de homens, mas nasce do desejo de servir e é o povo que gera seu próprio infortúnio, cúmplice dos tiranos” (Marilena Chauí).
@@ -71,7 +56,6 @@ Seus feitos em vida chamaram a atenção de seres superiores, e sem mesmo lhe co
 ### Truques
 Você conhece dois truques à sua escolha de qualquer lista. Você aprende truques adicionais de sua escolha em níveis mais altos, conforme mostrado na tabela.
 
-{{classTable,frame,decoration,wide
 #### Tabela: O Tirano
 --- Espaços de Magia por Nível ---
 | Nível | Bônus de Proficiência|Características  | Truques Conhecidos   | Magias Conhecidas |1º |2º |3º |4º |5º |6º |7º |8º |9º |
@@ -96,4 +80,3 @@ Você conhece dois truques à sua escolha de qualquer lista. Você aprende truqu
 | 18º  | +6 |      —  |    7     |   12   | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  | —  |
 | 19º  | +6 |      Prunus Serrulata 3, Incremento no Valor de Habilidade |    7     |   13   | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  | 1  |
 | 20º  | +6 |      Portador da Dávida Suprema   |    7     |   14   | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  | 1  |
-}}
