@@ -144,3 +144,21 @@ A partir do 5º nível, você pode atacar duas vezes, em vez de uma vez, sempre 
 Agora no 6º nível, impulsos vindos de seu patrono extradimensional estão ainda mais presentes. Num teste de resistência de Sabedoria (CD 15) você pode usar sua ação bônus para tentar conjurar uma magia extra no seu turno, essa magia deve ser de 4º nível ou inferior. Numa falha ao usar essa característica você desperdiça sua açâo bônus naquele turno sem fazer nada.
 
 **Abuso de Dádiva.** Ao receber uma falha você pode forçar um novo teste, da seguinte maneira, deslocando o dado para 20 e pegando algum dos números adjacentes mais alto para você muda o curso da coisas. Role um d10 e veja a tabela após *Canalizar Poder*. Após utilizar essa característica de Presságio você não pode usá-la novamente por 1d6 + 3 dias.
+
+#### Consequências
+Seu Mestre também pode pior as consequências de seu abuso de sorte proferido por patrono, além do que pode vir da tabela.
+
+### Prunus Serrulata 1
+No 7º nível, você cria um pulso de aura que o protege. Quando alvo de ataques que causam dano, você tem a chance de refletir parte do dano recebido. Você pode rolar um d20 puro para as seguintes condições:
+- 10 ou menos: Falha, você toma o dano normal
+- 10 ou mais: Você recebe dano e reflete 1d4 + metade do nível de tirano (arredondado para baixo)
+- 18 ou 19: Você recebe dano e o dano refletido aumenta em 5
+- 20: Você recebe dano e pode usar sua reação, para atacar de volta o alvo até 1,5 metros de você
+
+Você não pode usar esta característica novamente até que você faça um descanso longo.
+:
+![alt-text](https://i.imgur.com/DLcT8Wz.jpg) {width:300px,border:"0px solid",border-radius:0px}
+*Artista: cobaltplasma*
+
+### Canalizar Poder
+No 8º nível, você ganha a habilidade de canalizar energia divina ou profana, usando essa energia para aumentar os efeitos mágicos. Você começa com este efeito: Exoneração, Julgamento ou Carnificina. Esse efeito vem de acordo com seu Alinhamento.
