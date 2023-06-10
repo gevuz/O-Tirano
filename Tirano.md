@@ -160,14 +160,10 @@ Você não pode usar esta característica novamente até que você faça um desc
 ### Canalizar Poder
 No 8º nível, você ganha a habilidade de canalizar energia divina ou profana, usando essa energia para aumentar os efeitos mágicos. Você começa com este efeito: Exoneração, Julgamento ou Carnificina. Esse efeito vem de acordo com seu Alinhamento.
 
-\column
+# Canalizar Poder: Exoneração
 
-### Canalizar Poder: Exoneração
-
-{{descriptive
 ##### Para Alinhamento: Leal *(e outro qualquer)*
 Serão abençoados por Aulla, A Verdade Incontestável.
-}}
 
 Utilizando essa característica você clama intervenção divina para o plano material, que desecandeia efeitos por onde você passar. No momento em questão o campo de batalha é envolvido numa redoma que bloqueia nocivos á você.
 
