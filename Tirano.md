@@ -6,7 +6,11 @@ layout: default
 
 <details>
  <summary>Índice</summary>
- [O Tirano](https://gevuz.github.io/O-Tirano/#criando-um-tirano)
+1. Item one
+   1. Sub item one
+   1. Sub item two
+1. Item two
+1. Item three
 </details>
 
 # O Tirano
