@@ -5,8 +5,8 @@ layout: default
 ---
 
 <details>
- <summary>Summary Goes Here</summary>
- ...this is hidden, collapsable content...
+ <summary>Índice</summary>
+ [O Tirano](https://gevuz.github.io/O-Tirano/#criando-um-tirano)
 </details>
 
 # O Tirano
