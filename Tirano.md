@@ -58,8 +58,8 @@ Você conhece dois truques à sua escolha de qualquer lista. Você aprende truqu
 
 {{classTable,frame,decoration,wide
 #### Tabela: O Tirano
-| Nível | Bônus de     | Características | Truques       | Magias | --- Espaços de Magia por Nível ---|||||||||
-|      | Proficiência|                | Conhecidos   | Conhecidas |1º |2º |3º |4º |5º |6º |7º |8º |9º |
+ --- Espaços de Magia por Nível ---|||||||||
+| Nível | Bônus de Proficiência|Características  | Truques Conhecidos   | Magias Conhecidas |1º |2º |3º |4º |5º |6º |7º |8º |9º |
 |:-----:|:------------:|:-------------   |:--------:|:------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |  1º  | +2 |      Escolhido Extradimensional, Presságio |    2     |   4    | 2  | —  | —  | —  | —  | —  | —  | —  | —  |
 |  2º  | +2 |      Radicais Livres      |    2     |   6    | 3  | —  | —  | —  | —  | —  | —  | —  | —  |
