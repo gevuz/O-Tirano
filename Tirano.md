@@ -8,9 +8,9 @@ layout: default
  <summary>Índice</summary>
  
 1. [O Tirano](#O-Tirano)
-2. [Criando um Tirano](#Criando-um-Tirano)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+- 1.2 [Criando um Tirano](#Criando-um-Tirano)
+- 1.3 [Características de Classe](#Características-de-Classe)
+- 1.4 [Pontos de Vida](#Pontos-de-Vida)
  
 </details>
 
@@ -24,7 +24,7 @@ Você pode criar um Tirano rapidamente seguindo estas sugestões: Primeiro, o Ca
 
 Como um tirano, você adquire as seguintes características de classe:
 
-#### Pontos de vida
+#### Pontos de Vida
 **Dado de vida:**                     1d8 por nível de tirano \
 **Pontos de vida no 1º Nível:**      8 + mod. de Constituição \
 **Pontos de vida nos Níveis Superiores:**  1d8 (ou 5) + mod. de Constituição por nível de tirano após o primeiro
