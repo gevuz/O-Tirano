@@ -28,8 +28,7 @@ Como um tirano, você adquire as seguintes características de classe:
 **Perícias:**         Escolha 2 entre Arcanismo, Enganação, Intimidação, Natureza e História
 
 #### Habilidade de conjuração
-**CD de magias** = 10 + Proficiência + Carisma
-
+**CD de magias** = 10 + Proficiência + Carisma \
 **Modificador de ataque de magia** = Proficiência + Carisma
 
 #### Equipamento
@@ -54,8 +53,7 @@ Seus feitos em vida chamaram a atenção de seres superiores, e sem mesmo lhe co
 ### Truques
 Você conhece dois truques à sua escolha de qualquer lista. Você aprende truques adicionais de sua escolha em níveis mais altos, conforme mostrado na tabela.
 
-
-#### Tabela: O Tirano
+# Tabela: O Tirano
 
 | Nível | Bônus de Proficiência|Características  | Truques Conhecidos   | Magias Conhecidas |1º |2º |3º |4º |5º |6º |7º |8º |9º |
 |:-----:|:------------:|:-------------   |:--------:|:------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -80,3 +78,14 @@ Você conhece dois truques à sua escolha de qualquer lista. Você aprende truqu
 | 19º  | +6 |      Prunus Serrulata 3, Incremento no Valor de Habilidade |    7     |   13   | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  | 1  |
 | 20º  | +6 |      Portador da Dávida Suprema   |    7     |   14   | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  | 1  |
 
+#### Espaços de Magia
+A tabela do Tirano mostra quantos espaços de magia você tem para lançar suas magias do 1º ao 9º nível. A tabela também mostra qual é o nível desses espaços; Para lançar uma de suas de 1º nível ou superior, você deve gastar um espaço de magia. Você recupera todos os espaços de magia gastos quando termina um descanso curto ou longo.
+
+Quando você escolhe usar um feitiço enquanto joga de Tirano, esse feitiço é imbuído em seus punhos, gastando o espaço necessário para que o feitiço seja usado. Se você escolher começar com *manoplas*{color:darkblue}, elas serão carregadas com o feitiço que você decidiu usar e seu próximo ataque corpo a corpo não criará o efeito visual do feitiço, mas causará o dano se deu ataque + o dano do feitiço. Quaisquer feitiços que exijam testes de resistência ainda funcionarão como pretendido.
+
+Se você não começou usando as *manoplas*{color:darkblue}, o efeito funciona para a outra arma marcial escolhida. Se o feitiço exigir um ataque a distância com magia, ele funcionará como pretendido se escolher o fazer junto ao ataque com a arma.
+
+#### Magias Conhecidas de 1º Nível e Superior
+No 1º nível, você conhece duas magias de 1º nível, à sua escolha, da lista de magias de qualquer classe.
+
+A coluna Magias Conhecidas da tabela Tirano mostra quando você aprende mais magias de qualquer classe de sua escolha de 1º nível e superior. Uma magia que você escolher deve ser de um nível não superior ao que é mostrado na coluna Nível do Espaço da tabela para o seu nível. Ao atingir o 7º nível, por exemplo, você aprende uma nova magia, que pode ser de 1º, 2º ou 3º nível. Além disso, quando você ganha um nível nesta classe, você pode escolher uma das magias que você conhece e substituí-la por outra magia da lista de magias de qualquer outra classe, que também deve ser de um nível para o qual você tenha espaços de magia.
