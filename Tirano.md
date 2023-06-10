@@ -8,9 +8,9 @@ layout: default
  <summary>Índice</summary>
  
 1. [O Tirano](#O-Tirano)
-- 1.2 [Criando um Tirano](#Criando-um-Tirano)
-- 1.3 [Características de Classe](#Características-de-Classe)
-- 1.4 [Pontos de Vida](#Pontos-de-Vida)
+1.2 [Criando um Tirano](#Criando-um-Tirano)
+1.3 [Características de Classe](#Características-de-Classe)
+1.4 [Pontos de Vida](#Pontos-de-Vida)
  
 </details>
 
