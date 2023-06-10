@@ -7,8 +7,8 @@ layout: default
 <details>
  <summary>Índice</summary>
  
-1. [Example](#example)
-2. [Example2](#example2)
+1. [O Tirano](#O-Tirano)
+2. [Criando um Tirano](#Criando-um-Tirano)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
  
