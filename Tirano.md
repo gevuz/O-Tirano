@@ -17,7 +17,7 @@ Como um tirano, você adquire as seguintes características de classe:
 #### Pontos de vida
 **Dado de vida:**                     1d8 por nível de tirano
 **Pontos de vida no 1º Nível:**      8 + mod. de Constituição
-**Pontos de vida nos Níveis Superiores:**  1d8 (ou 5) + mod. de Constituição por nível de tirano após o primeiro.
+**Pontos de vida nos Níveis Superiores:**  1d8 (ou 5) + mod. de Constituição por nível de tirano após o primeiro
 
 #### Proficiências
 **Armaduras:**    Leves
@@ -40,11 +40,9 @@ Você começa com o seguinte equipamento, além do equipamento fornecido pelo se
 - Símbolo de fé
 - 100 PO
 
-#### Opções de alinhamento
-{{purple,#book,text-align:left,background:#aa88aa55
-Jogando como tirano, seu alinhamento conta para o tipo de entidade que entrará em sintonia com seu persona.
-Então escolhendo Caótico e Mau não espere por algo benigno, ou fácil de lidar. Veja a tabela após *Canalizar Poder*.
-}}
+#### > Opções de alinhamento
+> Jogando como tirano, seu alinhamento conta para o tipo de entidade que entrará em sintonia com seu persona.
+> Então escolhendo Caótico e Mau não espere por algo benigno, ou fácil de lidar. Veja a tabela após *Canalizar Poder*.
 
 ### Escolhido Extradimensional
 Seus feitos em vida chamaram a atenção de seres superiores, e sem mesmo lhe contatarem diretamente o presentearam com dádivas sagradas ou pagãs. Desde o primeiro nível você já contempla resquícios desses poderes. Você tem as seguintes características:
