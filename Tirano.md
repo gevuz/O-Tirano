@@ -7,9 +7,9 @@ layout: default
 <details>
  <summary>Índice</summary>
  
-<a href="#o-tirano">1. O Tirano</a>
-<a href="#criando-um-tirano">2. Criando um Tirano</a>
-<a href="#características-de-classe">3. Características de Classe</a>
+<a href="#o-tirano">1. O Tirano</a> \
+<a href="#criando-um-tirano">2. Criando um Tirano</a> \
+<a href="#características-de-classe">3. Características de Classe</a> \
 <a href="#pontos-de-vida">4. Pontos de Vida</a>
  
 </details>
