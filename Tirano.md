@@ -97,3 +97,24 @@ Sua benção extradimensional te confere um foco arcano inato. Você tem dificul
 Também no 1º nível, você têm relances vindos de seu deus extradimensional. Num teste de resistência de Sabedoria (CD 15) você pode usar sua ação bônus para tentar conjurar uma magia extra no seu turno, essa magia deve ser de 1º nível ou inferior. Numa falha ao usar essa característica você desperdiça sua açâo bônus naquele turno sem fazer nada.
 
 Você recebe aprimoramentos nesse recurso novamente nos 6º, 10º e 15º níveis.
+
+### Radicais Livres
+No 2º nível, ao fazer ataques corpo a corpo com magia embutida, você tem os seguintes benefícios:
+- Ataques causam 1 dado adicional de dano + metade seu nível de Tirano (arredondado para baixo)
+- Se o feitiço exigir um teste de resistência, o alvo rola 1d4 para reduzir seu resultado
+
+Você não pode usar esta característica novamente até que você faça um descanso curto ou longo.
+
+### Poder Latente
+No 3º nível, você pode usar sua ação bônus para atacar novamente no seu turno, você pode escolher a forma ou estilo deste ataque. Este ataque usa seu modificador de Carisma, esta ação ignora imunidades. Você não pode usar esta característica novamente até que você faça um descanso longo.
+
+### Incremento no Valor de Habilidade
+Ao atingir o 4º nível, você pode aumentar um valor de habilidade de sua escolha em 2, ou pode aumentar dois valores de habilidade de sua escolha em 1. Como de costume, você não pode aumentar um valor de habilidade acima de 20 usando este recurso. Se o seu Mestre permitir o uso de talentos, você pode escolher um talento.
+
+### Ataque Extra (1)
+A partir do 5º nível, você pode atacar duas vezes, em vez de uma vez, sempre que realizar a ação Atacar no seu turno. O número de ataques aumenta para três quando você atinge o 17º nível nesta classe.
+
+### Característica de Presságio
+Agora no 6º nível, impulsos vindos de seu patrono extradimensional estão ainda mais presentes. Num teste de resistência de Sabedoria (CD 15) você pode usar sua ação bônus para tentar conjurar uma magia extra no seu turno, essa magia deve ser de 4º nível ou inferior. Numa falha ao usar essa característica você desperdiça sua açâo bônus naquele turno sem fazer nada.
+
+**Abuso de Dádiva.** Ao receber uma falha você pode forçar um novo teste, da seguinte maneira, deslocando o dado para 20 e pegando algum dos números adjacentes mais alto para você muda o curso da coisas. Role um d10 e veja a tabela após *Canalizar Poder*. Após utilizar essa característica de Presságio você não pode usá-la novamente por 1d6 + 3 dias.
