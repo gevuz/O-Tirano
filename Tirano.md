@@ -182,4 +182,54 @@ Além disso, Aulla é considerada uma deusa benevolente. Ela é conhecida por se
 No entanto, apesar de sua bondade e lealdade, pouco se sabe sobre o verdadeiro poder de Aulla. Ela é uma figura enigmática que muitos temem provocar, pois acreditam que ela poderia desencadear uma força incontrolável. Algumas lendas contam sobre momentos em que Aulla revelou um vislumbre de seu verdadeiro poder, mas ninguém sabe ao certo o que ela é capaz de fazer.
 
 Em suma, Aulla é uma deus que representa a verdade incontestável e a justiça.
+
+---
+
+# Canalizar Poder: Julgamento
+
+##### Para Alinhamento: Neutro *(e outro qualquer)*
+Serão abençoados por Nyptane, A Virtude.
+
+A neutralidade as vezes é o lado mais poderoso em que você pode estar. Criando uma torrente energética que impregna seus arredores e todos que o permeia.
+
+**Orbe Zen de Nyptane.** Uma orbe de matéria é atirada dos céus num ponto a sua escolha, escolha uma no momento em que usar esta habilidade, podendo causar os seguintes efeitos:
+- *Orbe da Neutralidade:* Com velocidade incrível, uma esfera de 3 metros de raio é atirada dos céus num ponto a sua escolha dentro de 36 metros de alcance. Tudo no ponto de choque da esfera deve ser bem sucedido num teste de resistência de Inteligência contra o CD de suas magias, ou serão atordoados por 1d4 + 1 turnos.
+- *Orbe Ultrajante:* Com um estalar de dedos você cria uma explosão num círculo (360°) de 6 metros até 9 metros de você causando 9d6 + seu bônus de proficiência como dano de força. Se uma ou mais criaturas forem reduzidas a zero pontos de vida por isso, cria outra explosão causando 9d6 de dano radiante.
+- *Orbe Vital:* Uma esfera esverdeada se forma proximo de você curando todos na área em 10 pontos de vida por 4d4 turnos, cura subsequente ao máximo de vida é convertido em pontos de vida temporários.
+
+---
+### Nyptane, A Virtude
+Nyptane, é uma deidade venerada por muitos. Ele é descrito como um deus neutro que não se intromete nos acontecimentos mundanos, a menos que escolha fazê-lo para aqueles que considera dignos. Ele é conhecido por se entreter com as festas em sua homenagem e por sua filosofia de aceitação de todas as escolhas de vida.
+
+Segundo a mitologia que envolve Nyptane, ele é um deus que prefere observar o mundo sem interferir diretamente. Ele é um deus que acredita na liberdade e no livre-arbítrio, deixando as pessoas escolherem seus próprios caminhos sem interferir em sua decisão.
+
+Nyptane é conhecido por se divertir nas festas em sua homenagem. Ele é descrito como um deus que gosta de comemorar, dançar e celebrar com seus seguidores. Seus rituais de adoração são considerados uma mistura de devoção e celebração, com a comida e a bebida sendo oferecidas em seu nome. Embora seja um deus, Nyptane não exige sacrifícios de seus seguidores pois acredita que todos devem ser livres para escolher seus próprios caminhos. Sua filosofia é baseada na aceitação.
+
+---
+
+# Canalizar Poder: Carnificina
+
+##### Para Alinhamento: Caótico *(e outro qualquer)*
+Serão abençoados por Anagignöskomena, A Angústia.
+
+A habilidade concedida permite que seus seguidores conjurem ondas de energia destrutiva, criem explosões de fogo e causem terremotos, entre outros fenômenos devastadores.
+
+**Carnificina de Anagignöskomena.** Usando essa habilidade você entra em estágios de caos, que lhe garantem imenso poder á um preço vital. Você tem benefícios no decorrer da duração:
+- *1º até 3º rodadas:* Seus ataques causam 1d12 de dano necrótico adicional, limitado a 2 de seus ataques por turno (você decide quando e em que ataque adicionar).
+- *4º até 6º rodadas:* Seu crítico vem em 18, e ao realizar seu 1º acerto crítico na rodada você entra em Fúria automaticamente e seu dano para esses ataques aumentam 2 dados.
+- *7º até 10º rodadas:* Você pode usar sua reação para se curar de seus ferimentos em 3d12 + nível de Tirano.
+- *Depois da 13º rodada:* Você pode atacar entre turnos 2 vezes.
+
+Após o combate você sente sua vitalidade sendo drenada de você, sua visão fica turva e você deve fazer um teste de resistência de Constituição (CD 20). Em sucesso você recebe um ponto de exaustão, em falha você cai e com uma falha em salvaguarda contra morte.
+
+---
+### Anagignöskomena, A Angústia
+Anagignöskomena, é uma divindade temida por muitos em seu mundo. Ele é descrito como um deus maligno que espalha destruição e uma atmosfera de melancolia por onde passa. Ele é conhecido por escolher seus seguidores e punir severamente aqueles que não o adoram.
+
+Espalha destruição por onde passa, causando dor e sofrimento. Suas ações incluem a criação de desastres naturais, epidemias e conflitos violentos. Ele é conhecido por escolher seus seguidores de forma seletiva.
+
+Aqueles que são escolhidos por Anagignöskomena recebem poder e prosperidade, mas ao preço de se submeterem totalmente a ele e seguirem suas ordens cegamente. Eles se tornam fanáticos devotos, dispostos a realizar os atos mais atrozes em nome do deus da angústia.
+
+Se for contrariado condena os desertores a arder em chamas eternamente em seu reino de tormento.
+
 ---
