@@ -6,7 +6,7 @@ layout: default
 
 <details>
  <summary>Índice</summary>
- [Mix HTML + Markdown Markup section](#mix-html--markdown-markup)
+ [GitLab UI docs](https://gitlab-org.gitlab.io/gitlab-ui/?path=/story/base-collapse--default)
 </details>
 
 # O Tirano
