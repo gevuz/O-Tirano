@@ -7,10 +7,10 @@ layout: default
 <details>
  <summary>Índice</summary>
  
-1. [O Tirano](#O-Tirano)
-1.2 [Criando um Tirano](#Criando-um-Tirano)
-1.3 [Características de Classe](#Características-de-Classe)
-1.4 [Pontos de Vida](#Pontos-de-Vida)
+[O Tirano](#O-Tirano)\
+[Criando um Tirano](#Criando-um-Tirano)\
+[Características de Classe](#Características-de-Classe)\
+[Pontos de Vida](#Pontos-de-Vida)
  
 </details>
 
