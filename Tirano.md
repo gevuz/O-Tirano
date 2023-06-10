@@ -40,7 +40,7 @@ Você começa com o seguinte equipamento, além do equipamento fornecido pelo se
 - Símbolo de fé
 - 100 PO
 
-#### > Opções de alinhamento
+#### Opções de alinhamento
 > Jogando como tirano, seu alinhamento conta para o tipo de entidade que entrará em sintonia com seu persona.
 > Então escolhendo Caótico e Mau não espere por algo benigno, ou fácil de lidar. Veja a tabela após *Canalizar Poder*.
 
