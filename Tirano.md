@@ -7,11 +7,17 @@ layout: default
 <details>
  <summary>Índice</summary>
  
-<a href="#o-tirano">1. O Tirano</a> <br>
-<a href="#criando-um-tirano">2. Criando um Tirano</a> <br>
-<a href="#características-de-classe">3. Características de Classe</a> <br>
-<a href="#pontos-de-vida">4. Pontos de Vida</a>
- 
+<a href="#o-tirano">1 - O Tirano</a> <br>
+<a href="#criando-um-tirano">2 - Criando um Tirano</a> <br>
+<a href="#características-de-classe">3 - Características de Classe</a> <br>
+<a href="#pontos-de-vida">4 - Pontos de Vida</a>
+<a href="#proficiências">5 - Proficiências</a>
+<a href="#habilidade-de-conjuração">6 - Habilidade de conjuração</a>
+<a href="#equipamento">7 - Equipamento</a>
+<a href="#opções-de-alinhamento">8 - Opções de alinhamento</a>
+<a href="#escolhido-extradimensional">9 - Escolhido Extradimensional</a>
+<a href="#truques">10 - Truques</a>
+
 </details>
 
 # O Tirano
