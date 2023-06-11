@@ -235,6 +235,7 @@ Se for contrariado condena os desertores a arder em chamas eternamente em seu re
 ---
 
 ##### Consequências de Abuso de Dádiva
+
 | Rolagem |      Consequência                                                                                          |
 |:-----:  |:------------------------                                                                                   |
 |  1      | Pelo próximo minuto você fica cego.                                                                        |
